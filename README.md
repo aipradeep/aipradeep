@@ -1,4 +1,4 @@
-# Hi, I'm [Pradeep Thathachari] 👋
+# Hi, I'm Pradeep Thathachari 👋
 
 ## What I Build
 I study and build Agentic Systems.
